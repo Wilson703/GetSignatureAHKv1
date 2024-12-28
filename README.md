@@ -8,6 +8,9 @@ GetSignatureInfo accepts a file path as input and returns either an object conta
 
 The function is particularly useful for validating software authenticity by checking if specific trusted publishers appear anywhere in the certificate chain, not just the leaf certificate. 
 
+You might be able to find more information here 
+https://www.autohotkey.com/boards/posting.php?mode=reply&f=6&t=135085
+
 ```ahk
 
 GetSignatureInfo(FilePath) {
