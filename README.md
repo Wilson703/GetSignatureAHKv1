@@ -1,4 +1,4 @@
-# Get Digital Certificate Information From File AHK v1.1
+# Get Signer information and certificate chain from a digitally signed EXE file AHK v1.1
 
 A AHK v1 (Autohotkey v1.1) function that gets the chain of certificates from a digitally signed EXE file 
 
